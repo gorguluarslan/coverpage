@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cover-Page</title>
+    <link rel="stylesheet" href="../coverpage/coverpage.css" />
+    <script>
+      window.addEventListener("load", function (event) {
+        console.log("!!! I AM LOADED !!!");
+        element = document.getElementById("loadCover");
+        element.classList.add("load-completed");
+      });
+    </script>
+    <style>
+      #loadCover {
+        z-index: 99999999;
+        transform: translateY(0);
+        transition: all 0.25s;
+        pointer-events: none;
+      }
+      #loadCover.load-completed {
+        opacity: 0;
+        z-index: -99999999;
+        transform: translateY(-110%);
+      }
+    </style>
+  </head>
+  <body>
+    <!-- <section
+      id="loadCover"
+      class="w-100 vh-100 position-fixed bg-white d-flex justify-content-center align-items-center load-completed"
+      style="top: 0; right: 0; left: 0; z-index: 99999999"
+    >
+      <div class="text-center text-primary">
+        == $0
+        <div class="spinner-border" role="status">
+          <span class="visually-hidden">Loading...</span>
+        </div>
+      </div>
+    </section> -->
+    <div class="main-container clearfix">
+      <a href=https://www.makridecor.com.tr/ class="col dark" target="_blank">
+        <span>
+          <img src="../coverpage/images/logo-1.png" />
+        </span>
+        <!-- İNŞAAT -->
+        <span class="alt-text">İLHAM VERİCİ EVLER</span>
+        <span class="alt-text1"
+          >Her şeyi yapıyoruz derken şaka yapmıyorduk 😉</span
+        >
+        <span class="alt-text2">www.makridecor.com.tr</span>
+      </a>
+      <a href=https://www.makridecor.com.tr/ class="col light" target="_blank"> 
+        <span>
+          <img src="../coverpage/images/logo-1.png" />
+        </span>
+        <span class="alt-text">ZAMANSIZ DEKORASYON</span>
+        <span class="alt-text1"
+          >Evlerinize daha önce görülmemiş tasarımlarımızı getirmeye
+          geldik.</span
+        >
+        <span class="alt-text2">www.makridecor.com.tr</span>
+      </a>
+    </div>
+    <div>
+      <a href="https://platoyazilimajans.com">
+        == $0
+        <img class="plt-icon" src="/coverpage/images/pltyzlm.svg" />
+      </a>
+    </div>
+  </body>
+</html>
