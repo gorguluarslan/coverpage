@@ -27,16 +27,16 @@ body {
   margin: 0;
 }
 .alt-text {
-  margin-top: 10%;
+  margin-top: 15%;
   font-weight: 600;
   font-size: 25px;
 }
 .alt-text1 {
-  margin-top: 15%;
+  margin-top: 20%;
   font-weight: 600;
 }
 .alt-text2 {
-  margin-top: 20%;
+  margin-top: 25%;
   font-weight: 600;
 }
 .plt-icon {
@@ -281,7 +281,7 @@ body .main-container .col.light:hover span {
     transition: all 0.3s ease;
   }
   .alt-text {
-    margin-top: 40%;
+    margin-top: 20%;
     font-weight: 600;
     font-size: 12px;
   }
