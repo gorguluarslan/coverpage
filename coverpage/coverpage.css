@@ -27,12 +27,12 @@ body {
   margin: 0;
 }
 .Makri-Dekor-siyah {
-  margin-top: -200px;
+  margin-top: -170px;
   margin-left: 56%;
 }
 
 .alt-text {
-  margin-top: 15%;
+  margin-top: 10%;
   font-weight: 600;
   font-size: 30px;
 }
@@ -52,7 +52,7 @@ body {
   font-size: 100px;
   z-index: 99999;
   top: auto !important;
-  left: 0% !important;
+  left: 10% !important;
   right: 0% !important;
   bottom: 0 !important;
   padding: 10px !important;
@@ -220,7 +220,7 @@ body .main-container .col.light:hover span {
 
 @media (min-width: 320px) and (max-width: 480px) {
   .plt-icon {
-    width: 30% !important;
+    width: 50% !important;
   }
 
   body .main-container .col span {
@@ -269,7 +269,8 @@ body .main-container .col.light:hover span {
 
 @media (min-width: 481px) and (max-width: 767px) {
   .plt-icon {
-    width: 30% !important;
+    width: 20% !important;
+    margin-left: 20rem;
   }
   body .main-container .col span {
     display: inline-block;
@@ -294,7 +295,7 @@ body .main-container .col.light:hover span {
   .alt-text {
     margin-top: 20%;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 30px;
   }
   .alt-text1 {
     margin-top: 110%;
@@ -318,6 +319,7 @@ body .main-container .col.light:hover span {
 @media (min-width: 768px) and (max-width: 1024px) {
   .plt-icon {
     width: 25% !important;
+    margin-left: 25rem;
   }
   body .main-container .col span {
     display: inline-block;
@@ -367,7 +369,8 @@ body .main-container .col.light:hover span {
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
   .plt-icon {
-    width: 30% !important;
+    width: 15% !important;
+    margin-left: 25rem;
   }
   body .main-container .col span {
     display: inline-block;
@@ -414,9 +417,6 @@ body .main-container .col.light:hover span {
 */
 
 @media (min-width: 1025px) and (max-width: 1280px) {
-  .plt-icon {
-    width: 30% !important;
-  }
   body .main-container .col span {
     display: inline-block;
     position: absolute;
@@ -438,7 +438,7 @@ body .main-container .col.light:hover span {
     transition: all 0.3s ease;
   }
   .plt-icon {
-    width: 15% !important;
+    width: 9% !important;
   }
   .alt-text {
     margin-top: 30%;
