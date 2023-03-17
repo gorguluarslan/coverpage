@@ -26,19 +26,25 @@ body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
 }
+.Makri-Dekor-siyah {
+  margin-top: -200px;
+  margin-left: 56%;
+}
 
 .alt-text {
   margin-top: 15%;
   font-weight: 600;
-  font-size: 25px;
+  font-size: 30px;
 }
 .alt-text1 {
   margin-top: 20%;
   font-weight: 600;
+  font-size: 20px;
 }
 .alt-text2 {
   margin-top: 25%;
   font-weight: 600;
+  font-size: 15px;
 }
 .plt-icon {
   position: absolute;
@@ -160,7 +166,7 @@ body .main-container .col::after {
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: 0.5;
+  opacity: 0.7;
   z-index: 2;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -172,7 +178,7 @@ body .main-container .col.dark::after {
   background-color: #000;
 }
 body .main-container .col.light::after {
-  opacity: 0.4;
+  opacity: 0.6;
   background-color: rgb(0, 0, 0);
 }
 body .main-container .col span {
@@ -251,6 +257,9 @@ body .main-container .col.light:hover span {
     font-size: 7px;
     font-weight: 500;
   }
+  .Makri-Dekor-siyah {
+    margin-left: 56%;
+  }
 }
 
 /* 
@@ -295,6 +304,9 @@ body .main-container .col.light:hover span {
     margin-top: 180%;
     font-size: 7px;
     font-weight: 500;
+  }
+  .Makri-Dekor-siyah {
+    margin-left: 55%;
   }
 }
 
@@ -343,6 +355,9 @@ body .main-container .col.light:hover span {
     font-size: 20px;
     font-weight: 500;
   }
+  .Makri-Dekor-siyah {
+    margin-left: 57%;
+  }
 }
 
 /* 
@@ -387,6 +402,9 @@ body .main-container .col.light:hover span {
     margin-top: 60%;
     font-size: 15px;
     font-weight: 500;
+  }
+  .Makri-Dekor-siyah {
+    margin-left: 57%;
   }
 }
 
@@ -436,5 +454,8 @@ body .main-container .col.light:hover span {
     margin-top: 40%;
     font-size: 15px;
     font-weight: 500;
+  }
+  .Makri-Dekor-siyah {
+    margin-left: 57%;
   }
 }
