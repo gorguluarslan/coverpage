@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 5610.4" style="enable-background:new 0 0 595.3 5610.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E2281E;}
+	.st1{clip-path:url(#SVGID_00000182493284923410856250000007953478620996159153_);}
+</style>
+<symbol  id="Yeni_Sembol" viewBox="-3.2 -357 6.3 714">
+	<g>
+		<rect x="-2.8" y="-353.8" class="st0" width="5.3" height="707.7"/>
+		<path class="st0" d="M3.2-357h-6.3v714h6.3V-357z M-2.2-350.7h4.3v701.4h-4.3V-350.7z"/>
+	</g>
+</symbol>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="255.2" y="278.7" width="6.3" height="5258.7"/>
+		</defs>
+		<clipPath id="SVGID_00000118381127852613951110000009333315921515459497_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_00000118381127852613951110000009333315921515459497_);">
+			<g>
+				<defs>
+					<rect id="SVGID_00000143598665834975506920000015331596391273300916_" x="255.3" y="278.7" width="6.3" height="5258.7"/>
+				</defs>
+				<clipPath id="SVGID_00000092427950022630635240000015754306662599578522_">
+					<use xlink:href="#SVGID_00000143598665834975506920000015331596391273300916_"  style="overflow:visible;"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_00000092427950022630635240000015754306662599578522_);">
+					
+						<use xlink:href="#Yeni_Sembol"  width="6.3" height="714" x="-3.2" y="-357" transform="matrix(1 0 0 -7.3651 258.5066 2908.0076)" style="overflow:visible;"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

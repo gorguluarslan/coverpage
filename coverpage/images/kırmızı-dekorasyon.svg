@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3069 4635">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff261f;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <image class="cls-2" width="3069" height="4635" xlink:href="dekorasyon.jpg"/>
+  <rect class="cls-1" x="3040.1" width="28.9" height="4635"/>
+</svg>
