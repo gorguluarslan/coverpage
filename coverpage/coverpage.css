@@ -162,10 +162,10 @@ body .main-container .col {
   background-position: center center;
 }
 body .main-container .col.dark {
-  background-image: url(../coverpage/images/insaat-kırmızı.jpg);
+  background-image: url(../coverpage/images/insaat.jpg);
 }
 body .main-container .col.light {
-  background-image: url(../coverpage/images/makri-bg.jpg);
+  background-image: url(../coverpage/images/dekorasyon.jpg);
 }
 body .main-container .col::after {
   position: absolute;
